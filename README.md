@@ -102,21 +102,6 @@ My personal developer portfolio where I showcase my projects, skills, experiment
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=46du774h&show_icons=true&hide_border=true"
-  />
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=46du774h&hide_border=true"
-  />
-</p>
-
----
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
