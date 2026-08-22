@@ -69,7 +69,6 @@ A local, privacy-first document processing agent that watches a folder for docum
 
 **Python • FastAPI • Ollama • Local AI**
 
-
 ## 🧠 Currently Exploring
 
 * 🤖 Local AI & LLM applications
@@ -80,8 +79,6 @@ A local, privacy-first document processing agent that watches a folder for docum
 * 🏗️ Full-stack architecture
 * 🐧 Linux development
 * 🐳 Docker & developer tooling
-
----
 
 ## 🐍 My Contribution Snake
 
