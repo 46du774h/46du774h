@@ -84,17 +84,6 @@ A local, privacy-first document processing agent that watches a folder for docum
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=46du774h&theme=github-dark&hide_border=true"
-  />
-</p>
-
----
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
@@ -115,7 +104,6 @@ A local, privacy-first document processing agent that watches a folder for docum
 </p>
 
 ---
-
 
 <p align="center">
   <i>Build. Learn. Experiment. Repeat. 🚀</i>
