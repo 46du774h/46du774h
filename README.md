@@ -6,14 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/46du774h">
-    <img src="https://img.shields.io/github/followers/46du774h?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/46du774h?style=flat&label=Followers&labelColor=24292f&color=58a6ff" />
   </a>
   <a href="https://github.com/46du774h">
-    <img src="https://img.shields.io/github/stars/46du774h?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/46du774h?style=flat&label=Stars&labelColor=24292f&color=58a6ff" />
   </a>
-  <a href="https://github.com/46du774h">
-    <img src="https://komarev.com/ghpvc/?username=46du774h&style=for-the-badge&color=blue" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=46du774h&style=flat&label=Views&labelColor=24292f&color=58a6ff" />
 </p>
 
 ---
@@ -73,22 +71,6 @@ A local, privacy-first document processing agent that watches a folder for docum
 
 ---
 
-### 📦 Inventory Management System
-
-A full-stack inventory management application for managing products, suppliers, categories, users, and stock transactions.
-
-**React • Node.js • Express • PostgreSQL**
-
----
-
-### 🌐 Developer Portfolio
-
-My personal developer portfolio where I showcase my projects, skills, experiments, and work.
-
-**React • TypeScript • Framer Motion**
-
----
-
 ## 🧠 Currently Exploring
 
 * 🤖 Local AI & LLM applications
@@ -99,6 +81,17 @@ My personal developer portfolio where I showcase my projects, skills, experiment
 * 🏗️ Full-stack architecture
 * 🐧 Linux development
 * 🐳 Docker & developer tooling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=46du774h&theme=github-dark&hide_border=true"
+  />
+</p>
 
 ---
 
